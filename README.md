@@ -1,2 +1,3 @@
-# svadba
-Svadba Vladko &amp; Lenka
+# Svadba Vladko &amp; Lenka
+
+Informácie k svadbe.
