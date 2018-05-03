@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Zasadací poriadok"
 permalink: /zasadaci_poriadok/
 ---
@@ -46,9 +46,9 @@ permalink: /zasadaci_poriadok/
 
   1.  Maroš Rabik `♂`
   2.  Monika Hovancová `♂`
-  3.  Nelka `♂` `²` `⁴`
+  3.  Nelka `♂` `⑁` `²`
   4.  Marienka Hrebíková `♂`
-  5.  Laurinka `♂` `²` `⁴`
+  5.  Laurinka `♂` `⑁` `²`
   6.  Tobiasko `♂` `³`
   7.  Michal Hrebík `♂`
   8.  Janka Rabiková `♂`
@@ -84,7 +84,7 @@ permalink: /zasadaci_poriadok/
   4.  Jakub Pavlík `♀` `³`
   5.  Mirka Pavlíková `♀`
   6.  Saška Shamsaldeen Kurtyova `♀`
-  7.  Yasminka `♀` `²` `⁴`
+  7.  Yasminka `♀` `⑁` `²`
   8.  Jaafarko `♀` `³`
   9.  Jojko `♀` `³`
   10. Mammad Shamsaldeen `♀`
@@ -138,7 +138,7 @@ permalink: /zasadaci_poriadok/
 
 * C1 - C4, D1 - D4
 
-  > Detský kútik
+  > voľné
 
 * Pódium
 
@@ -151,10 +151,12 @@ permalink: /zasadaci_poriadok/
   7.  Staff `♂`
 
 > `♂` Vladkovi ľudia  
-> `♀` Lenkini ľudia
+> `♀` Lenkini ľudia  
+
+> `⑁` detská stolička  
 
 > `¹` bezlepková strava  
 > `²` bez jedla  
 > `³` detská porcia  
-> `⁴` detská stolička  
-> `⁵` prvé hlavné jedlo - ryža so zeleninou z polievky (bez masla a mlieka)
+> `⁴` kuracie predjedlo  
+> `⁵` prvé hlavné jedlo - hranolky so zeleninou z polievky (bez masla a mlieka)

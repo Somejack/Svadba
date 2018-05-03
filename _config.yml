@@ -17,14 +17,14 @@ title: Svadba Vladko & Lenka
 email: somejack@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Informácie k našej svadbe.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+# baseurl: "" # the subpath of your site, e.g. /blog
+# url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: DJSomejack
 # github_username:  Somejack
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-merlot
 plugins:
   - jekyll-feed
 
