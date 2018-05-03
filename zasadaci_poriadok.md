@@ -83,11 +83,11 @@ permalink: /zasadaci_poriadok/
   3.  Miloš Pavlík `♀`
   4.  Jakub Pavlík `♀` `³`
   5.  Mirka Pavlíková `♀`
-  6.  Saška Shamsaldeen Kurtyova `♀`
-  7.  Yasminka `♀` `⑁` `²`
-  8.  Jaafarko `♀` `³`
-  9.  Jojko `♀` `³`
-  10. Mammad Shamsaldeen `♀`
+  6.  Saška Shamsaldeen Kurtyova `♀` `⁴`
+  7.  Yasminka `♀` `⑁` `²` `⁴`
+  8.  Jaafarko `♀` `³` `⁴`
+  9.  Jojko `♀` `³` `⁴`
+  10. Mammad Shamsaldeen `♀` `⁴`
 
 * A1
 
