@@ -2,6 +2,8 @@
 
 # Zasadací poriadok
 
+![plan sedenia](./images/plan_sedenia.png)
+
 * Čelo
 
   1.  Ocko Jirko
