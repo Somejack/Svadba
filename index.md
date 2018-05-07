@@ -11,4 +11,6 @@ ktorá sa uskutoční dňa 5.5.2018 o 16:00.
 
 [Náš domček](./domcek)
 
+[Pesničky](./pesnicky)
+
 LEBO V+L=VL 😍
