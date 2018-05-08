@@ -17,8 +17,7 @@
 | Michal Čuba a Marienka Čubová       |  200 |
 | Paťo Čuba                           |   50 |
 | Dominik Čuba a Janka                |  100 |
-| Marienka Kažová                     |  200 |
-| Miro Kaža a Denisa                  |  100 |
+| Marienka Kažová a Miro Kaža         |  150 |
 | Zuzka Vitkajová a Vlado Vitkaj      |  300 |
 | Dušan Ščecina a Ilonka Ščecinová    |  500 |
 | Jano Pavlík a Miluša Pavlíková      |  200 |
@@ -26,7 +25,8 @@
 | Lucka Ženčuchová a Miro Ženčuch     |  100 |
 | Katka Vašková a Lukáš Vaško         |  100 |
 | Milan Gmitro a Ivka                 |  100 |
-| **Spolu**                           | 4650 |
+| Eva Letanovská a Jozef Letanovský   |  200 |
+| **Spolu**                           | 4700 |
 
 ---
 
@@ -51,4 +51,4 @@
 
 ---
 
-**Celkovo**: 6780€
+**Celkovo**: 6830€
